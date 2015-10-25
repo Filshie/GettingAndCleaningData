@@ -1,22 +1,24 @@
 ---
-title: "Codebook template"
-author: "Your name here"
-date: "The date here"
+title: "Getting and Cleaning Data Course Project"
+author: "Filshie"
+date: "25/10/2015"
 output:
   html_document:
     keep_md: yes
 ---
 
 ## Project Description
-Short description of the project
+The purpose of this project is to collect, work with, and clean a data set collected from wearable computing - specifically accelerometer data from the Samsung Galaxy S smartphone. 
 
 ##Study design and data processing
 
 ###Collection of the raw data
-Description of how the data was collected.
+A zip file of the data downdoaded from the UCI Machine Learning Repository.
+Link to UCI website:
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
-###Notes on the original (raw) data 
-Some additional notes (if avaialble, otherwise you can leave this section out).
+Direct link to data:
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ##Creating the tidy datafile
 
@@ -45,11 +47,6 @@ Some information on the variable including:
 
 (you can easily use Rcode for this, just load the dataset and provide the information directly form the tidy data file)
 
-####Notes on variable 1:
-If available, some additional notes on the variable not covered elsewehere. If no notes are present leave this section out.
-
 ##Sources
-Sources you used if any, otherise leave out.
-
-##Annex
-If you used any code in the codebook that had the echo=FALSE attribute post this here (make sure you set the results parameter to 'hide' as you do not want the results to show again)
+Link to UCI website:
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 

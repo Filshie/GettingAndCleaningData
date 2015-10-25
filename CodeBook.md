@@ -7,9 +7,6 @@ output:
     keep_md: yes
 ---
 
-## Project Description
-The purpose of this project is to collect, work with, and clean a data set collected from wearable computing - specifically accelerometer data from the Samsung Galaxy S smartphone. 
-
 ###Collection of the raw data
 A zip file of the data downdoaded from the UCI Machine Learning Repository.
 Link to UCI website:
@@ -18,13 +15,6 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 Direct link to data:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-##Creating the tidy datafile
- - Download the dataset if it does not already exist in the working directory.
- - Bind subject, activity and features datasets by rows
- - Set names to varibles
- - Merge all the datasets together.
- - Rename variable names to make them more descriptive.
- - Creates a tidy dataset that consists of the mean value of each variable for each subject and activity.
 
 ##Description of the variables in the tiny_data.txt file
 tidy data set variable names listed.
